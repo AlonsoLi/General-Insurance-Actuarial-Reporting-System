@@ -7,8 +7,10 @@ There are four key steps in GI reporting work:
 3. Save results
 4. Analysis
 
-All my work can be automated by:
+All of them can be automated by:
 1. build a sql data base.
 2. read data and calculate in python
 3. save results back to data base
 4. power BI for visulization
+
+1-3 are back end, 4 is to replace a front end.
