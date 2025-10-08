@@ -1,5 +1,5 @@
-# General-Insurance-Reporting-System
-A base structure for GI reporting, with Python + SQL + Power BI
+# General-Insurance-Actuarial-Reporting-System
+A base structure for GI reporting, with Python + SQL + Power BI, applicable for both IFRS17 and solvency.
 
 There are four key steps in GI reporting work:
 1. Collect data
