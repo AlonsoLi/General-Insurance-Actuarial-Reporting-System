@@ -1,7 +1,7 @@
 # General-Insurance-Reporting-System
 A base structure for GI reporting, with Python + SQL + Power BI
 
-There are four key steps in my work:
+There are four key steps in GI reporting work:
 1. Collect data
 2. Calculate
 3. Save results
